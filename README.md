@@ -35,8 +35,8 @@ To develop this project locally, follow these steps:
 ```
 1. Clone the repository.
 2. Install the necessary dependencies by running ```npm install``` or ```yarn install```.
-    [considered using the "--force" or "--legacy-peer-deps" options with the "npm install" command to accept an incorrect dependency resolution]
-
+   [considered using the "--force" or "--legacy-peer-deps" options with the 
+    "npm install" command to accept an incorrect dependency resolution]
 3. Start the development server by running ```npm run dev``` or ```yarn dev```.
 4. Make changes and test them locally.
 5. Commit your changes with clear and concise commit messages.
